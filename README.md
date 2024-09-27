@@ -1,2 +1,2 @@
-# RemoteControlled-car
- RC car built with ESP32 and L298N Motor Controller
+# Robot car
+ Two wheeled Remote controlled car built with ESP32 and L298N Motor Controller

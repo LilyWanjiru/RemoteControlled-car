@@ -1,8 +1,8 @@
-int value;
+useint value;
 int led = 9;
 int en1 = 14;
 int in1a = 12;
-int in2a = 11;
+int in2a = 13;
 
 int en2 = 5;
 int in1b = 19;
@@ -10,7 +10,7 @@ int in2b = 21;
 
 int reg_speed;
 void setup() {
-  // put your setup code here, to run once:
+  
   Serial.begin(115200);
   // Serial.println("Initializing.......");
   pinMode(led, OUTPUT);
